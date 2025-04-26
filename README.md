@@ -26,7 +26,7 @@ You have been provided with data on the under-five mortality rate and neonatal m
 You should work on an RMD document that is saved in your name, e.g juma_fulani.rmd.
 Kindly ensure you show the code in your data. 
 
-For interactive insights and better visibility, the site is live at: https://deninjo.github.io/Data-Science-task/
+For interactive insights and better visibility, the notebook file is live at: https://deninjo.github.io/Data-Science-task/
 
 
 
